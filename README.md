@@ -6,14 +6,16 @@ All useful code is split into entity.py and tilemap.py in the src directory for 
 
 # Dependencies
 
-pygame:
+pygame:  
 `pip intall pygame`
 
 # Installation and Use
 
 ## Clone Important Files
 
-`git clone https://github.com/removeableox/Pygame-Tilemap-Rendering/tree/main/src`
+Clone the repo and take out use important files  
+(tilemap.py and entity.py in src directory)  
+`git clone https://github.com/removeableox/Pygame-Tilemap-Rendering`
 
 ## Use in Your Project
 
